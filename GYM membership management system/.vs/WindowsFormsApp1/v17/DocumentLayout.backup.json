@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|c:\\users\\nirmith\\source\\repos\\windowsformsapp1\\searchmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:searchmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\searchmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:searchmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\newmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:newmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\viewequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:viewequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\deletemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:deletemember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:equipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\newstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:newstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{5D75C80C-61DA-489E-8147-ABBD49F20590}|WindowsFormsApp1.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIAwwF4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T16:59:44.963Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchMember.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\SearchMember.cs",
+              "RelativeDocumentMoniker": "SearchMember.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\SearchMember.cs",
+              "RelativeToolTip": "SearchMember.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:29:54.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\SearchMember.cs",
+              "RelativeDocumentMoniker": "SearchMember.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\SearchMember.cs [Design]",
+              "RelativeToolTip": "SearchMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T17:29:52.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteMember.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\DeleteMember.cs",
+              "RelativeDocumentMoniker": "DeleteMember.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\DeleteMember.cs",
+              "RelativeToolTip": "DeleteMember.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T10:10:27.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Review.cs",
+              "RelativeDocumentMoniker": "Review.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Review.cs",
+              "RelativeToolTip": "Review.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAgwCcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:44:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equipment.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Equipment.cs",
+              "RelativeDocumentMoniker": "Equipment.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Equipment.cs",
+              "RelativeToolTip": "Equipment.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwDEAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T17:07:58.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Newstaff.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Newstaff.cs",
+              "RelativeDocumentMoniker": "Newstaff.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Newstaff.cs",
+              "RelativeToolTip": "Newstaff.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:43:06.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewMember.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\NewMember.cs",
+              "RelativeDocumentMoniker": "NewMember.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\NewMember.cs",
+              "RelativeToolTip": "NewMember.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAqwLUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:07:30.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\ViewEquipment.cs",
+              "RelativeDocumentMoniker": "ViewEquipment.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\ViewEquipment.cs",
+              "RelativeToolTip": "ViewEquipment.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:48:23.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:21:00.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\Login.cs",
+              "RelativeToolTip": "Login.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAApwCcAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T14:04:13.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\Nirmith\\source\\repos\\WindowsFormsApp1\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-23T16:09:38.5Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
